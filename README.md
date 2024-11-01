@@ -23,18 +23,18 @@ https://github.com/imuslihudeen/Muslihudeen-Bike-sales-Dashboard/blob/main/Bike%
 
 ## Project Insight
 1. Average Income Per Purchase
-- By Gender and Marital Status:
+- **By Gender and Marital Status:**
 -	 Married individuals have a higher average income per purchase compared to single individuals, regardless of gender.
 -	 Among both married and single groups, males have a higher average income per purchase than females.
 -Income Difference Based on Purchase Decision:
 -	Customers who made a purchase have a higher average income compared to those who did not make a purchase.
 -	This suggests that higher income levels may be correlated with a greater likelihood of purchasing a bike.
 2. Customer Age Brackets
-- Purchase Likelihood by Age Group:
+- **Purchase Likelihood by Age Group:**
   -The middle-aged bracket shows the highest number of purchases compared to the adolescent and older age brackets.
   -Middle-aged individuals are likely the primary customer segment for bike sales, indicating that marketing strategies could be optimized by focusing on this age group.
 3. Customer Commute Distance
-- Distance and Purchase Correlation:
+- **Distance and Purchase Correlation:**
   - The 0–1 mile commute distance group shows a high level of engagement, but with slightly higher interest in purchasing.
   - Interest seems to dip for the 1–2-mile range and then rises for 5–10 miles before declining again for more than 10 miles.
   - This pattern suggests that customers commuting either very short or moderate distances (like 5-10 miles) may have a higher inclination to purchase bikes, possibly for convenience or efficiency in shorter commutes.
