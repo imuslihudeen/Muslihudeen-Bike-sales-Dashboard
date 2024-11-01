@@ -10,7 +10,7 @@ The Business Manager has given you an Excel file containing Order of bike buyers
 -	Customer age bracket
 -	Customer commute
 
-Dashboard interaction <a href= “https://github.com/imuslihudeen/Muslihudeen-Kultra-Mega-superstore/blob/main/Kultra%20superstore%20Dashboard.jpg”>View Dashboard</a>
+Dashboard interaction <a href= “https://github.com/imuslihudeen/Muslihudeen-Bike-sales-Dashboard/blob/main/Bike%20Sales%20Dashboard%20(1).jpg”>View Dashboard</a>
   
 ## Process
 -	Verify data for any missing values and outliers, and sort out the same
@@ -19,4 +19,5 @@ Dashboard interaction <a href= “https://github.com/imuslihudeen/Muslihudeen-Ku
 -	Merge all pivot tables into one dashboard and apply slicer to make filtering easy.
 
 ## Dashboard
-https://github.com/imuslihudeen/Muslihudeen-Kultra-Mega-superstore/blob/main/Kultra%20superstore%20Dashboard.jpg
+https://github.com/imuslihudeen/Muslihudeen-Bike-sales-Dashboard/blob/main/Bike%20Sales%20Dashboard%20(1).jpg
+
