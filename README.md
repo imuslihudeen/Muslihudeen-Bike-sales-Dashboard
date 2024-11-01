@@ -31,8 +31,8 @@ https://github.com/imuslihudeen/Muslihudeen-Bike-sales-Dashboard/blob/main/Bike%
 -	This suggests that higher income levels may be correlated with a greater likelihood of purchasing a bike.
 2. Customer Age Brackets
 - **Purchase Likelihood by Age Group:**
-  -The middle-aged bracket shows the highest number of purchases compared to the adolescent and older age brackets.
-  -Middle-aged individuals are likely the primary customer segment for bike sales, indicating that marketing strategies could be optimized by focusing on this age group.
+  - The middle-aged bracket shows the highest number of purchases compared to the adolescent and older age brackets.
+  - Middle-aged individuals are likely the primary customer segment for bike sales, indicating that marketing strategies could be optimized by focusing on this age group.
 3. Customer Commute Distance
 - **Distance and Purchase Correlation:**
   - The 0–1 mile commute distance group shows a high level of engagement, but with slightly higher interest in purchasing.
