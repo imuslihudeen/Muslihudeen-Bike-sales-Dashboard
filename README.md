@@ -9,6 +9,8 @@ The Business Manager has given you an Excel file containing Order of bike buyers
 -	Average income per purchase
 -	Customer age bracket
 -	Customer commute
+
+Dashboard interaction <a href= “https://github.com/imuslihudeen/Muslihudeen-Kultra-Mega-superstore/blob/main/Kultra%20superstore%20Dashboard.jpg”>View Dashboard</a>
   
 ## Process
 -	Verify data for any missing values and outliers, and sort out the same
@@ -16,3 +18,5 @@ The Business Manager has given you an Excel file containing Order of bike buyers
 -	Created pivot tables according to the questions asked
 -	Merge all pivot tables into one dashboard and apply slicer to make filtering easy.
 
+## Dashboard
+https://github.com/imuslihudeen/Muslihudeen-Kultra-Mega-superstore/blob/main/Kultra%20superstore%20Dashboard.jpg
